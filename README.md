@@ -1,5 +1,5 @@
 # DNN-NOMA
-Simulation for "Deep Neural Network-Based Active User Detection for Grant-Free NOMA Systems".
+Simulation for "[Deep Neural Network-Based Active User Detection for Grant-Free NOMA Systems](https://ieeexplore.ieee.org/document/8968401)".
 ## Requirements
 * Numpy
 * Tensorflow
@@ -16,4 +16,5 @@ Simulation for "Deep Neural Network-Based Active User Detection for Grant-Free N
   * main: Run the code.
   * filemanager: To be finished. Save weights and codebook to deployment.
   * generator: Functions.
+<br>
 If there is any problem please email leo01412123@gmail.com  
